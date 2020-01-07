@@ -1,6 +1,7 @@
 # AWS_Project
-##Prerequistic
-*hostname : Madter is hadoop master
+## Prerequistic
+### hostname 
+*Master is hadoop master
 *example
 ```
 echo "3.94.99.35 master" >> /etc/hosts
